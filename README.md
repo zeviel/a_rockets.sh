@@ -3,6 +3,6 @@ Web-API for [aRockets](https://vk.com/app7307253) an vk service to get promo cod
 
 ## Example
 ```bash
-source a_rockets.sh
+source ./a_rockets.sh
 get_store_info "store_id"
 ```
